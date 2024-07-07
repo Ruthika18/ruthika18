@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Ruthika18/ruthika18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+I'm an aspiring data scientist with a passion for uncovering insights from data and building predictive models. I enjoy working on challenging projects that require analytical thinking and creativity.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning advanced machine learning techniques and deep learning.
+- 📫 How to reach me: ruthikareddy12@gmail.com
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Skills
+- **Programming Languages**: Python, R, SQL
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Data Visualization**: Tableau, Power BI
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
