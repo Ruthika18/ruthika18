@@ -1,5 +1,5 @@
 ## 🌟 Introducing Myself
-![Ruthika Aliminati](https://imgur.com/a/pOjmPqb.png)
+![Ruthika Aliminati](https://github.com/Ruthika18/ruthika18/blob/main/Github%20Banner.png)
 
 <p align="center">
     I am an aspiring data scientist with a passion for machine learning, analytics, and NLP research. I enjoy exploring data to derive insights and working on innovative solutions using AI.
