@@ -1,5 +1,5 @@
 ## 🌟 Introducing Myself
-![Ruthika Aliminati](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22ralimibanner.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-02-02T04%3A52%3A28.531Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F32ae3a7ec7dc404f%2Fralimibanner.png%3FExpires%3D1833079949%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Do6lUPouFuepbPqRgrqKStJ9U9KXFBkuOleECgKZ0o7IT~S76iWCqp9WJk8PA0hPLBergiAZwbN6PU-zqL0LV9sUmt~SE8UQAt9a8IsTMHu6JQBmbdE9q3BtQxt~Zt3lkNw6T-27y07nmTJ4vWSgpbIsXqD9AGPDWnLKrNP6OcxBWbd5XjYmMP0YAgUQlMxppRroviXtvUE-mkgKIozLmb3CCJgZE2joDpsitAFE-1sbe4mMRULRsbD3-lnCpu~wezF6ExaiyKLTLun-Z33-I3Bir5~hSNjedWDLkO8yr~JLS3P5O2C9Qg52O2J-80HgNb5k0pRboDLusb5lYyKYpTQ__%22%7D)
+![Ruthika Aliminati](https://imgur.com/a/pOjmPqb.png)
 
 <p align="center">
     I am an aspiring data scientist with a passion for machine learning, analytics, and NLP research. I enjoy exploring data to derive insights and working on innovative solutions using AI.
